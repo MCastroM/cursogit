@@ -1,0 +1,675 @@
+3979	12755721-7  	Ingreso de funcionario al sistema.	2022-08-08 20:07:42	10.83.220.98
+3980	13556975-5  	Ingreso de funcionario al sistema.	2022-08-16 07:43:39	172.16.40.24
+3981	13556975-5  	Funcionario envia su postulación en el sistema.	2022-08-16 07:47:15	172.16.40.24
+3982	13556975-5  	Funcionario descarga su certificado.	2022-08-16 07:47:26	172.16.40.24
+3983	11951761-3  	Ingreso de funcionario al sistema.	2022-08-16 08:30:22	10.83.103.52
+3984	11951761-3  	Funcionario envia su postulación en el sistema.	2022-08-16 08:31:25	10.83.103.52
+3985	11951761-3  	Funcionario descarga su certificado.	2022-08-16 08:31:34	10.83.103.52
+3986	12472170-9  	Ingreso de funcionario al sistema.	2022-08-16 09:36:49	10.83.221.96
+3987	12472170-9  	Funcionario crea una nueva objeción.	2022-08-16 09:45:30	10.83.221.96
+3988	12472170-9  	Funcionario envia su postulación en el sistema.	2022-08-16 09:46:52	10.83.221.96
+3989	12472170-9  	Funcionario descarga su certificado.	2022-08-16 09:46:56	10.83.221.96
+3990	10908710-6  	Ingreso de funcionario al sistema.	2022-08-16 09:49:53	10.83.221.96
+3991	10908710-6  	Funcionario envia su postulación en el sistema.	2022-08-16 09:51:25	10.83.221.96
+3992	10908710-6  	Funcionario descarga su certificado.	2022-08-16 09:51:30	10.83.221.96
+3993	14585307-9  	Ingreso de funcionario al sistema.	2022-08-16 09:53:14	10.83.221.3
+3994	09898510-7  	Ingreso de funcionario al sistema.	2022-08-16 10:03:13	172.16.40.24
+3995	15314395-1  	Ingreso de funcionario al sistema.	2022-08-16 10:25:14	172.16.40.24
+3996	14547416-7  	Ingreso de funcionario al sistema.	2022-08-16 10:26:19	10.83.224.126
+3997	15314395-1  	Funcionario crea una nueva objeción.	2022-08-16 10:38:43	172.16.40.24
+3998	14547416-7  	Ingreso de funcionario al sistema.	2022-08-16 10:49:22	10.83.224.104
+3999	19002158-0  	Ingreso de funcionario al sistema.	2022-08-16 10:55:00	172.16.20.194
+4000	19002158-0  	Funcionario envia su postulación en el sistema.	2022-08-16 10:56:34	172.16.20.194
+4001	09898510-7  	Ingreso de funcionario al sistema.	2022-08-16 11:05:00	172.16.40.24
+4002	09898510-7  	Funcionario envia su postulación en el sistema.	2022-08-16 11:20:16	172.16.40.24
+4003	11207344-2  	Ingreso de funcionario al sistema.	2022-08-16 11:26:49	172.16.40.24
+4004	10309126-8  	Ingreso de funcionario al sistema.	2022-08-16 11:27:28	172.16.40.24
+4005	14128801-6  	Ingreso de funcionario al sistema.	2022-08-16 11:33:10	172.16.40.24
+4006	14128801-6  	Funcionario envia su postulación en el sistema.	2022-08-16 11:35:06	172.16.40.24
+4007	14128801-6  	Funcionario descarga su certificado.	2022-08-16 11:35:17	172.16.40.24
+4008	11207344-2  	Ingreso de funcionario al sistema.	2022-08-16 11:36:46	172.16.40.24
+4009	11207344-2  	Funcionario envia su postulación en el sistema.	2022-08-16 11:38:10	172.16.40.24
+4010	11207344-2  	Funcionario descarga su certificado.	2022-08-16 11:38:16	172.16.40.24
+4011	09575018-4  	Ingreso de funcionario al sistema.	2022-08-16 12:05:46	10.83.232.119
+4012	15680572-6  	Ingreso de funcionario al sistema.	2022-08-16 12:07:48	172.16.40.24
+4013	10749403-0  	Ingreso de funcionario al sistema.	2022-08-16 12:08:49	172.16.40.24
+4014	09212326-K  	Ingreso de funcionario al sistema.	2022-08-16 12:09:47	10.83.232.179
+4015	09212326-K  	Funcionario envia su postulación en el sistema.	2022-08-16 12:11:08	10.83.232.179
+4016	09212326-K  	Funcionario descarga su certificado.	2022-08-16 12:11:19	10.83.232.179
+4017	15680572-6  	Funcionario envia su postulación en el sistema.	2022-08-16 12:13:28	172.16.40.24
+4018	15680572-6  	Funcionario descarga su certificado.	2022-08-16 12:13:35	172.16.40.24
+4019	09575018-4  	Funcionario envia su postulación en el sistema.	2022-08-16 12:13:49	10.83.232.119
+4020	09575018-4  	Funcionario descarga su certificado.	2022-08-16 12:13:52	10.83.232.119
+4021	14585307-9  	Ingreso de funcionario al sistema.	2022-08-16 12:51:00	10.83.221.3
+4022	15596509-6  	Ingreso de funcionario al sistema.	2022-08-16 12:56:33	172.16.40.24
+4023	15596509-6  	Funcionario envia su postulación en el sistema.	2022-08-16 12:57:50	172.16.40.24
+4024	15596509-6  	Funcionario descarga su certificado.	2022-08-16 12:57:59	172.16.40.24
+4025	15596509-6  	Funcionario descarga su certificado.	2022-08-16 12:59:08	172.16.40.24
+4026	07738131-7  	Ingreso de funcionario al sistema.	2022-08-16 13:03:42	10.83.239.44
+4027	07738131-7  	Funcionario envia su postulación en el sistema.	2022-08-16 13:08:05	10.83.239.44
+4028	07738131-7  	Funcionario descarga su certificado.	2022-08-16 13:08:23	10.83.239.44
+4029	11854403-K  	Ingreso de funcionario al sistema.	2022-08-16 13:22:09	10.83.226.22
+4030	12887332-5  	Ingreso de funcionario al sistema.	2022-08-16 13:23:08	172.16.40.24
+4031	12887332-5  	Funcionario envia su postulación en el sistema.	2022-08-16 13:23:57	172.16.40.24
+4032	12887332-5  	Funcionario descarga su certificado.	2022-08-16 13:24:05	172.16.40.24
+4033	12887332-5  	Funcionario descarga su certificado.	2022-08-16 13:26:25	172.16.40.24
+4034	16520573-1  	Ingreso de funcionario al sistema.	2022-08-16 14:06:51	10.83.240.70
+4035	12311014-5  	Ingreso de funcionario al sistema.	2022-08-16 14:53:46	172.16.40.24
+4036	10091141-8  	Ingreso de funcionario al sistema.	2022-08-16 14:57:08	10.83.234.185
+4037	13476140-7  	Ingreso de funcionario al sistema.	2022-08-16 15:39:51	172.16.40.24
+4038	12030992-7  	Ingreso de funcionario al sistema.	2022-08-16 15:51:57	172.16.40.24
+4039	12030992-7  	Funcionario envia su postulación en el sistema.	2022-08-16 15:55:40	172.16.40.24
+4040	12030992-7  	Funcionario descarga su certificado.	2022-08-16 15:55:52	172.16.40.24
+4041	12030992-7  	Funcionario descarga su certificado.	2022-08-16 15:55:53	172.16.40.24
+4042	09421758-K  	Ingreso de funcionario al sistema.	2022-08-16 15:57:57	10.83.226.24
+4043	10047346-1  	Ingreso de funcionario al sistema.	2022-08-16 16:19:09	172.16.40.24
+4044	10047346-1  	Funcionario envia su postulación en el sistema.	2022-08-16 16:25:26	172.16.40.24
+4045	10047346-1  	Funcionario descarga su certificado.	2022-08-16 16:26:22	172.16.40.24
+4046	12976650-6  	Ingreso de funcionario al sistema.	2022-08-16 19:26:27	172.16.40.24
+4047	12976650-6  	Funcionario envia su postulación en el sistema.	2022-08-16 19:31:34	172.16.40.24
+4048	12976650-6  	Funcionario descarga su certificado.	2022-08-16 19:31:45	172.16.40.24
+4049	12673463-8  	Ingreso de funcionario al sistema.	2022-08-16 19:36:40	172.16.40.24
+4050	12673463-8  	Funcionario envia su postulación en el sistema.	2022-08-16 19:39:17	172.16.40.24
+4051	12673463-8  	Funcionario descarga su certificado.	2022-08-16 19:39:25	172.16.40.24
+4052	12673463-8  	Funcionario descarga su certificado.	2022-08-16 19:39:48	172.16.40.24
+4053	09098222-2  	Ingreso de funcionario al sistema.	2022-08-16 19:49:48	172.16.40.24
+4054	09098222-2  	Ingreso de funcionario al sistema.	2022-08-16 19:52:29	172.16.40.24
+4055	09098222-2  	Funcionario envia su postulación en el sistema.	2022-08-16 19:57:05	172.16.40.24
+4056	09098222-2  	Funcionario descarga su certificado.	2022-08-16 19:57:09	172.16.40.24
+4057	12673463-8  	Ingreso de funcionario al sistema.	2022-08-16 20:06:49	172.16.40.24
+4058	12673463-8  	Ingreso de funcionario al sistema.	2022-08-16 20:44:26	172.16.40.24
+4059	10012565-K  	Ingreso de funcionario al sistema.	2022-08-16 21:59:02	172.16.40.24
+4060	10012565-K  	Funcionario envia su postulación en el sistema.	2022-08-16 22:25:24	172.16.40.24
+4061	10012565-K  	Funcionario descarga su certificado.	2022-08-16 22:25:39	172.16.40.24
+4062	13483855-8  	Ingreso de funcionario al sistema.	2022-08-17 08:42:39	10.83.226.131
+4063	09381208-5  	Ingreso de funcionario al sistema.	2022-08-17 09:26:13	10.83.234.35
+4064	08572599-8  	Ingreso de funcionario al sistema.	2022-08-17 09:26:29	10.83.235.88
+4065	16522771-9  	Ingreso de funcionario al sistema.	2022-08-17 09:32:35	10.83.235.88
+4066	09381208-5  	Ingreso de funcionario al sistema.	2022-08-17 09:37:31	10.83.234.35
+4067	14547416-7  	Ingreso de funcionario al sistema.	2022-08-17 10:03:06	10.83.224.126
+4068	14160759-6  	Ingreso de funcionario al sistema.	2022-08-17 10:05:04	172.16.20.160
+4069	14160759-6  	Funcionario envia su postulación en el sistema.	2022-08-17 10:06:16	172.16.20.160
+4070	14160759-6  	Funcionario descarga su certificado.	2022-08-17 10:06:20	172.16.20.160
+4071	14547416-7  	Funcionario crea una nueva objeción.	2022-08-17 10:26:32	10.83.224.126
+4072	14547416-7  	Funcionario crea una nueva objeción.	2022-08-17 10:27:03	10.83.224.126
+4073	14547416-7  	Funcionario crea una nueva objeción.	2022-08-17 10:27:30	10.83.224.126
+4074	17151778-8  	Ingreso de funcionario al sistema.	2022-08-17 10:27:38	172.16.40.24
+4075	14547416-7  	Funcionario envia su postulación en el sistema.	2022-08-17 10:32:08	10.83.224.126
+4076	14547416-7  	Funcionario descarga su certificado.	2022-08-17 10:32:11	10.83.224.126
+4077	12507332-8  	Ingreso de funcionario al sistema.	2022-08-17 10:49:35	172.16.40.24
+4078	17151778-8  	Ingreso de funcionario al sistema.	2022-08-17 11:20:47	172.16.40.24
+4079	12542112-1  	Ingreso de funcionario al sistema.	2022-08-17 11:26:10	172.16.40.24
+4080	17151778-8  	Funcionario crea una nueva objeción.	2022-08-17 11:33:33	172.16.40.24
+4081	17108457-1  	Ingreso de funcionario al sistema.	2022-08-17 11:52:27	172.16.40.24
+4082	17108457-1  	Funcionario envia su postulación en el sistema.	2022-08-17 11:53:23	172.16.40.24
+4083	15726787-6  	Ingreso de funcionario al sistema.	2022-08-17 11:54:01	172.16.40.24
+4084	15726787-6  	Funcionario envia su postulación en el sistema.	2022-08-17 11:55:39	172.16.40.24
+4085	15726787-6  	Funcionario descarga su certificado.	2022-08-17 11:55:48	172.16.40.24
+4086	12542112-1  	Funcionario crea una nueva objeción.	2022-08-17 11:56:41	172.16.40.24
+4087	15571005-5  	Ingreso de funcionario al sistema.	2022-08-17 11:57:35	172.16.40.24
+4088	12542112-1  	Funcionario crea una nueva objeción.	2022-08-17 11:59:05	172.16.40.24
+4089	15571005-5  	Funcionario envia su postulación en el sistema.	2022-08-17 11:59:21	172.16.40.24
+4090	15571005-5  	Funcionario descarga su certificado.	2022-08-17 11:59:26	172.16.40.24
+4091	12542112-1  	Funcionario crea una nueva objeción.	2022-08-17 12:01:13	172.16.40.24
+4092	12542112-1  	Funcionario crea una nueva objeción.	2022-08-17 12:02:39	172.16.40.24
+4093	12542112-1  	Ingreso de funcionario al sistema.	2022-08-17 12:06:59	172.16.40.24
+4094	08353258-0  	Ingreso de funcionario al sistema.	2022-08-17 12:10:57	172.16.40.24
+4095	10938908-0  	Ingreso de funcionario al sistema.	2022-08-17 12:14:14	172.16.40.24
+4096	10938908-0  	Funcionario envia su postulación en el sistema.	2022-08-17 12:16:12	172.16.40.24
+4097	10938908-0  	Funcionario descarga su certificado.	2022-08-17 12:16:19	172.16.40.24
+4098	13835116-5  	Ingreso de funcionario al sistema.	2022-08-17 12:48:43	10.83.234.10
+4099	13835116-5  	Funcionario envia su postulación en el sistema.	2022-08-17 12:52:41	10.83.234.10
+4100	13835116-5  	Funcionario descarga su certificado.	2022-08-17 12:52:45	10.83.234.10
+4101	13266607-5  	Ingreso de funcionario al sistema.	2022-08-17 12:55:17	172.16.40.24
+4102	13266607-5  	Funcionario envia su postulación en el sistema.	2022-08-17 12:55:55	172.16.40.24
+4103	13266607-5  	Funcionario descarga su certificado.	2022-08-17 12:56:00	172.16.40.24
+4104	10444927-1  	Ingreso de funcionario al sistema.	2022-08-17 12:57:10	172.16.40.24
+4105	10444927-1  	Funcionario envia su postulación en el sistema.	2022-08-17 12:59:14	172.16.40.24
+4106	10166525-9  	Ingreso de funcionario al sistema.	2022-08-17 13:11:18	172.16.40.24
+4107	12542112-1  	Ingreso de funcionario al sistema.	2022-08-17 13:31:46	172.16.40.24
+4108	10870929-4  	Ingreso de funcionario al sistema.	2022-08-17 13:40:07	172.16.20.47
+4109	08353258-0  	Ingreso de funcionario al sistema.	2022-08-17 14:06:24	172.16.40.24
+4110	12905631-2  	Ingreso de funcionario al sistema.	2022-08-17 14:20:42	172.16.20.156
+4111	12905631-2  	Funcionario envia su postulación en el sistema.	2022-08-17 14:22:53	172.16.20.156
+4112	12905631-2  	Funcionario descarga su certificado.	2022-08-17 14:23:16	172.16.20.156
+4113	17103426-4  	Ingreso de funcionario al sistema.	2022-08-17 14:31:20	172.16.40.24
+4114	17103426-4  	Funcionario envia su postulación en el sistema.	2022-08-17 14:33:54	172.16.40.24
+4115	17103426-4  	Funcionario descarga su certificado.	2022-08-17 14:33:59	172.16.40.24
+4116	13059253-8  	Ingreso de funcionario al sistema.	2022-08-17 14:38:04	172.16.40.24
+4117	13059253-8  	Funcionario envia su postulación en el sistema.	2022-08-17 14:45:16	172.16.40.24
+4118	13059253-8  	Funcionario descarga su certificado.	2022-08-17 14:45:23	172.16.40.24
+4119	12542112-1  	Ingreso de funcionario al sistema.	2022-08-17 14:54:54	172.16.40.24
+4120	12542112-1  	Funcionario crea una nueva objeción.	2022-08-17 14:57:09	172.16.40.24
+4121	10938908-0  	Ingreso de funcionario al sistema.	2022-08-17 14:59:24	172.16.40.24
+4122	12840548-8  	Ingreso de funcionario al sistema.	2022-08-17 14:59:46	172.16.40.24
+4123	12840548-8  	Funcionario envia su postulación en el sistema.	2022-08-17 15:01:08	172.16.40.24
+4124	12840548-8  	Funcionario descarga su certificado.	2022-08-17 15:01:14	172.16.40.24
+4125	11725877-7  	Ingreso de funcionario al sistema.	2022-08-17 15:11:40	172.16.40.24
+4126	16615762-5  	Ingreso de funcionario al sistema.	2022-08-17 15:23:01	172.16.40.24
+4127	16615762-5  	Funcionario envia su postulación en el sistema.	2022-08-17 15:24:47	172.16.40.24
+4128	16615762-5  	Funcionario descarga su certificado.	2022-08-17 15:24:52	172.16.40.24
+4129	11645672-9  	Ingreso de funcionario al sistema.	2022-08-17 15:25:26	172.16.40.24
+4130	11645672-9  	Funcionario envia su postulación en el sistema.	2022-08-17 15:26:47	172.16.40.24
+4131	11645672-9  	Funcionario descarga su certificado.	2022-08-17 15:26:52	172.16.40.24
+4132	14900812-8  	Ingreso de funcionario al sistema.	2022-08-17 15:27:16	172.16.40.24
+4133	14900812-8  	Funcionario envia su postulación en el sistema.	2022-08-17 15:28:11	172.16.40.24
+4134	14900812-8  	Funcionario descarga su certificado.	2022-08-17 15:28:14	172.16.40.24
+4135	09217024-1  	Ingreso de funcionario al sistema.	2022-08-17 15:44:34	172.16.40.24
+4136	09217024-1  	Funcionario envia su postulación en el sistema.	2022-08-17 15:45:02	172.16.40.24
+4137	09217024-1  	Funcionario descarga su certificado.	2022-08-17 15:45:18	172.16.40.24
+4138	10870929-4  	Ingreso de funcionario al sistema.	2022-08-17 16:03:01	172.16.20.47
+4139	11725877-7  	Ingreso de funcionario al sistema.	2022-08-17 17:06:09	172.16.40.24
+4140	11725877-7  	Funcionario envia su postulación en el sistema.	2022-08-17 17:07:24	172.16.40.24
+4141	11725877-7  	Funcionario descarga su certificado.	2022-08-17 17:07:30	172.16.40.24
+4142	15314395-1  	Ingreso de funcionario al sistema.	2022-08-17 21:17:39	172.16.40.24
+4143	16882930-2  	Ingreso de funcionario al sistema.	2022-08-17 23:50:47	172.16.40.24
+4144	16882930-2  	Funcionario envia su postulación en el sistema.	2022-08-17 23:55:10	172.16.40.24
+4145	16882930-2  	Funcionario descarga su certificado.	2022-08-17 23:55:22	172.16.40.24
+4146	10802034-2  	Ingreso de funcionario al sistema.	2022-08-18 01:53:14	172.16.40.24
+4147	07202013-8  	Ingreso de funcionario al sistema.	2022-08-18 09:55:11	10.83.223.130
+4148	10749403-0  	Ingreso de funcionario al sistema.	2022-08-18 10:00:11	172.16.40.24
+4149	10749403-0  	Ingreso de funcionario al sistema.	2022-08-18 10:14:38	172.16.40.24
+4150	10749403-0  	Funcionario envia su postulación en el sistema.	2022-08-18 10:15:58	172.16.40.24
+4151	10749403-0  	Funcionario descarga su certificado.	2022-08-18 10:16:08	172.16.40.24
+4152	10850311-4  	Ingreso de funcionario al sistema.	2022-08-18 10:46:21	172.16.40.24
+4153	10850311-4  	Funcionario envia su postulación en el sistema.	2022-08-18 10:52:27	172.16.40.24
+4154	11402417-1  	Ingreso de funcionario al sistema.	2022-08-18 11:25:05	172.16.20.217
+4155	10938908-0  	Ingreso de funcionario al sistema.	2022-08-18 11:27:44	172.16.40.24
+4156	08353258-0  	Ingreso de funcionario al sistema.	2022-08-18 11:46:18	172.16.40.24
+4157	08353258-0  	Funcionario crea una nueva objeción.	2022-08-18 11:49:26	172.16.40.24
+4158	11402417-1  	Ingreso de funcionario al sistema.	2022-08-18 11:50:54	172.16.20.217
+4159	08353258-0  	Funcionario crea una nueva objeción.	2022-08-18 11:51:24	172.16.40.24
+4160	08353258-0  	Funcionario crea una nueva objeción.	2022-08-18 11:52:36	172.16.40.24
+4161	08353258-0  	Funcionario crea una nueva objeción.	2022-08-18 11:53:35	172.16.40.24
+4162	08353258-0  	Ingreso de funcionario al sistema.	2022-08-18 11:59:55	172.16.40.24
+4163	08785113-3  	Ingreso de funcionario al sistema.	2022-08-18 12:03:43	172.16.40.24
+4164	07059399-8  	Ingreso de funcionario al sistema.	2022-08-18 12:10:39	172.16.40.24
+4165	07059399-8  	Funcionario envia su postulación en el sistema.	2022-08-18 12:11:00	172.16.40.24
+4166	07059399-8  	Funcionario descarga su certificado.	2022-08-18 12:11:17	172.16.40.24
+4167	10981167-K  	Ingreso de funcionario al sistema.	2022-08-18 13:22:44	172.16.40.24
+4168	09117122-8  	Ingreso de funcionario al sistema.	2022-08-18 13:23:39	172.16.40.24
+4169	10981167-K  	Funcionario envia su postulación en el sistema.	2022-08-18 13:25:45	172.16.40.24
+4170	10981167-K  	Funcionario descarga su certificado.	2022-08-18 13:25:57	172.16.40.24
+4171	09692366-K  	Ingreso de funcionario al sistema.	2022-08-18 13:39:22	172.16.40.24
+4172	10730824-5  	Ingreso de funcionario al sistema.	2022-08-18 14:03:08	172.16.40.24
+4173	10870929-4  	Ingreso de funcionario al sistema.	2022-08-18 15:27:58	172.16.20.47
+4174	10870929-4  	Funcionario envia su postulación en el sistema.	2022-08-18 15:33:46	172.16.20.47
+4175	10870929-4  	Funcionario descarga su certificado.	2022-08-18 15:33:54	172.16.20.47
+4176	08109679-1  	Ingreso de funcionario al sistema.	2022-08-18 16:59:53	172.16.40.24
+4177	08109679-1  	Funcionario envia su postulación en el sistema.	2022-08-18 17:03:42	172.16.40.24
+4178	08109679-1  	Funcionario descarga su certificado.	2022-08-18 17:03:55	172.16.40.24
+4179	08572599-8  	Ingreso de funcionario al sistema.	2022-08-19 09:46:58	10.83.235.88
+4180	08572599-8  	Funcionario envia su postulación en el sistema.	2022-08-19 09:47:17	10.83.235.88
+4181	08572599-8  	Funcionario descarga su certificado.	2022-08-19 09:47:21	10.83.235.88
+4182	16522771-9  	Ingreso de funcionario al sistema.	2022-08-19 09:48:38	10.83.235.88
+4183	16522771-9  	Ingreso de funcionario al sistema.	2022-08-19 09:49:21	10.83.235.88
+4184	17587968-4  	Ingreso de funcionario al sistema.	2022-08-19 10:02:32	172.16.40.24
+4185	13673579-9  	Ingreso de funcionario al sistema.	2022-08-19 10:23:33	172.16.40.24
+4186	13673579-9  	Funcionario envia su postulación en el sistema.	2022-08-19 10:23:58	172.16.40.24
+4187	13673579-9  	Funcionario descarga su certificado.	2022-08-19 10:24:29	172.16.40.24
+4188	06748813-K  	Ingreso de funcionario al sistema.	2022-08-19 10:32:33	172.16.40.24
+4189	06748813-K  	Funcionario envia su postulación en el sistema.	2022-08-19 10:33:01	172.16.40.24
+4190	14585307-9  	Ingreso de funcionario al sistema.	2022-08-19 10:51:16	172.16.40.24
+4191	14585307-9  	Funcionario envia su postulación en el sistema.	2022-08-19 10:51:23	172.16.40.24
+4192	14585307-9  	Funcionario descarga su certificado.	2022-08-19 10:51:28	172.16.40.24
+4193	09038802-9  	Ingreso de funcionario al sistema.	2022-08-19 10:53:09	10.83.226.128
+4194	09038802-9  	Funcionario envia su postulación en el sistema.	2022-08-19 10:55:41	10.83.226.128
+4195	09038802-9  	Funcionario descarga su certificado.	2022-08-19 10:56:15	10.83.226.128
+4196	12005226-8  	Ingreso de funcionario al sistema.	2022-08-19 11:02:57	10.83.234.3
+4197	16046223-K  	Ingreso de funcionario al sistema.	2022-08-19 11:08:27	10.83.234.16
+4198	17587968-4  	Ingreso de funcionario al sistema.	2022-08-19 11:15:16	172.16.40.24
+4199	17587968-4  	Funcionario crea una nueva objeción.	2022-08-19 11:23:34	172.16.40.24
+4200	17587968-4  	Ingreso de funcionario al sistema.	2022-08-19 11:28:24	172.16.40.24
+4201	12005226-8  	Ingreso de funcionario al sistema.	2022-08-19 11:43:34	10.83.234.3
+4202	09381208-5  	Ingreso de funcionario al sistema.	2022-08-19 12:12:17	10.83.234.35
+4203	12135302-4  	Ingreso de funcionario al sistema.	2022-08-19 12:16:41	172.16.20.246
+4204	12135302-4  	Funcionario envia su postulación en el sistema.	2022-08-19 12:18:27	172.16.20.246
+4205	12135302-4  	Funcionario descarga su certificado.	2022-08-19 12:18:31	172.16.20.246
+4206	09381208-5  	Ingreso de funcionario al sistema.	2022-08-19 12:22:52	10.83.234.35
+4207	09381208-5  	Ingreso de funcionario al sistema.	2022-08-19 12:23:34	10.83.234.35
+4208	11929195-K  	Ingreso de funcionario al sistema.	2022-08-19 12:26:43	172.16.40.24
+4209	09381208-5  	Funcionario crea una nueva objeción.	2022-08-19 12:28:53	10.83.234.35
+4210	09381208-5  	Funcionario crea una nueva objeción.	2022-08-19 12:29:51	10.83.234.35
+4211	09381208-5  	Funcionario crea una nueva objeción.	2022-08-19 12:30:48	10.83.234.35
+4212	09381208-5  	Funcionario envia su postulación en el sistema.	2022-08-19 12:32:38	10.83.234.35
+4213	09381208-5  	Funcionario descarga su certificado.	2022-08-19 12:33:00	10.83.234.35
+4214	09381208-5  	Funcionario descarga su certificado.	2022-08-19 12:33:09	10.83.234.35
+4215	17151778-8  	Ingreso de funcionario al sistema.	2022-08-19 13:08:36	172.16.40.24
+4216	17151778-8  	Funcionario envia su postulación en el sistema.	2022-08-19 13:11:34	172.16.40.24
+4217	17151778-8  	Funcionario descarga su certificado.	2022-08-19 13:11:39	172.16.40.24
+4218	09826631-3  	Ingreso de funcionario al sistema.	2022-08-19 14:52:16	172.16.40.24
+4219	08353258-0  	Ingreso de funcionario al sistema.	2022-08-19 15:37:49	172.16.40.24
+4220	08353258-0  	Ingreso de funcionario al sistema.	2022-08-19 15:39:08	172.16.40.24
+4221	12542112-1  	Ingreso de funcionario al sistema.	2022-08-19 15:40:09	172.16.40.24
+4222	15314395-1  	Ingreso de funcionario al sistema.	2022-08-19 16:23:30	172.16.40.24
+4223	15314395-1  	Funcionario envia su postulación en el sistema.	2022-08-19 16:23:44	172.16.40.24
+4224	09366536-8  	Ingreso de funcionario al sistema.	2022-08-19 22:13:35	172.16.40.24
+4225	09366536-8  	Funcionario envia su postulación en el sistema.	2022-08-19 22:15:56	172.16.40.24
+4226	09366536-8  	Funcionario descarga su certificado.	2022-08-19 22:16:10	172.16.40.24
+4227	09366536-8  	Funcionario descarga su certificado.	2022-08-19 22:17:00	172.16.40.24
+4228	17587968-4  	Ingreso de funcionario al sistema.	2022-08-20 08:27:56	172.16.40.24
+4229	17587968-4  	Ingreso de funcionario al sistema.	2022-08-21 20:42:53	172.16.40.24
+4230	13940051-8  	Ingreso de funcionario al sistema.	2022-08-21 20:51:30	172.16.40.24
+4231	17587968-4  	Ingreso de funcionario al sistema.	2022-08-22 17:09:45	172.16.40.24
+4232	17587968-4  	Funcionario envia su postulación en el sistema.	2022-08-22 17:10:08	172.16.40.24
+4233	17587968-4  	Funcionario descarga su certificado.	2022-08-22 17:10:15	172.16.40.24
+4234	08942527-1  	Ingreso de funcionario al sistema.	2022-08-22 17:57:26	172.16.40.24
+4235	13940051-8  	Ingreso de funcionario al sistema.	2022-08-22 18:42:27	172.16.40.24
+4236	13940051-8  	Ingreso de funcionario al sistema.	2022-08-22 18:55:34	172.16.40.24
+4237	13940051-8  	Funcionario crea una nueva objeción.	2022-08-22 19:21:36	172.16.40.24
+4238	13940051-8  	Funcionario envia su postulación en el sistema.	2022-08-22 19:25:24	172.16.40.24
+4239	13940051-8  	Funcionario descarga su certificado.	2022-08-22 19:25:32	172.16.40.24
+4240	14245407-6  	Ingreso de funcionario al sistema.	2022-08-23 11:56:35	10.83.221.3
+4241	14245407-6  	Funcionario envia su postulación en el sistema.	2022-08-23 11:58:57	10.83.221.3
+4242	14245407-6  	Funcionario descarga su certificado.	2022-08-23 11:59:19	10.83.221.3
+4243	10166525-9  	Ingreso de funcionario al sistema.	2022-08-23 16:39:13	172.16.40.24
+4244	10166525-9  	Funcionario envia su postulación en el sistema.	2022-08-23 16:40:57	172.16.40.24
+4245	10166525-9  	Funcionario descarga su certificado.	2022-08-23 16:41:03	172.16.40.24
+4246	09842212-9  	Ingreso de funcionario al sistema.	2022-08-23 16:45:28	172.16.40.24
+4247	13227136-4  	Ingreso de funcionario al sistema.	2022-08-23 16:59:38	172.16.40.24
+4248	14507669-2  	Ingreso de funcionario al sistema.	2022-08-23 17:01:42	172.16.40.24
+4249	14507669-2  	Funcionario envia su postulación en el sistema.	2022-08-23 17:03:03	172.16.40.24
+4250	14507669-2  	Funcionario descarga su certificado.	2022-08-23 17:03:27	172.16.40.24
+4251	13227136-4  	Funcionario envia su postulación en el sistema.	2022-08-23 17:06:54	172.16.40.24
+4252	13227136-4  	Funcionario descarga su certificado.	2022-08-23 17:07:00	172.16.40.24
+4253	10966608-4  	Ingreso de funcionario al sistema.	2022-08-23 17:15:01	172.16.40.24
+4254	14371007-6  	Ingreso de funcionario al sistema.	2022-08-23 17:21:34	172.16.40.24
+4255	12005226-8  	Ingreso de funcionario al sistema.	2022-08-23 19:38:01	172.16.40.24
+4256	12005226-8  	Funcionario envia su postulación en el sistema.	2022-08-23 19:39:44	172.16.40.24
+4257	10802034-2  	Ingreso de funcionario al sistema.	2022-08-23 23:07:44	172.16.40.24
+4258	10802034-2  	Funcionario envia su postulación en el sistema.	2022-08-23 23:23:15	172.16.40.24
+4259	10802034-2  	Funcionario descarga su certificado.	2022-08-23 23:23:23	172.16.40.24
+4260	08353258-0  	Ingreso de funcionario al sistema.	2022-08-24 09:23:56	172.16.40.24
+4261	08353258-0  	Funcionario crea una nueva objeción.	2022-08-24 09:29:35	172.16.40.24
+4262	16372665-3  	Ingreso de funcionario al sistema.	2022-08-24 10:04:35	172.16.40.24
+4263	11402417-1  	Ingreso de funcionario al sistema.	2022-08-24 10:09:47	172.16.20.217
+4264	11402417-1  	Funcionario envia su postulación en el sistema.	2022-08-24 10:11:29	172.16.20.217
+4265	11402417-1  	Funcionario descarga su certificado.	2022-08-24 10:11:35	172.16.20.217
+4266	13028992-4  	Ingreso de funcionario al sistema.	2022-08-24 10:14:40	10.83.232.93
+4267	13028992-4  	Funcionario envia su postulación en el sistema.	2022-08-24 10:15:09	10.83.232.93
+4268	13238145-3  	Ingreso de funcionario al sistema.	2022-08-24 10:28:27	10.83.226.165
+4269	13238145-3  	Funcionario envia su postulación en el sistema.	2022-08-24 10:32:29	10.83.226.165
+4270	13238145-3  	Funcionario descarga su certificado.	2022-08-24 10:32:45	10.83.226.165
+4271	11854403-K  	Ingreso de funcionario al sistema.	2022-08-24 10:49:03	10.83.226.22
+4272	13548497-0  	Ingreso de funcionario al sistema.	2022-08-24 10:49:53	10.83.226.20
+4273	11854403-K  	Funcionario envia su postulación en el sistema.	2022-08-24 10:51:05	10.83.226.22
+4274	11854403-K  	Funcionario descarga su certificado.	2022-08-24 10:51:12	10.83.226.22
+4275	18192254-0  	Ingreso de funcionario al sistema.	2022-08-24 10:57:02	172.16.40.24
+4276	18192254-0  	Funcionario envia su postulación en el sistema.	2022-08-24 10:58:47	172.16.40.24
+4277	18192254-0  	Funcionario descarga su certificado.	2022-08-24 10:59:11	172.16.40.24
+4278	13548497-0  	Funcionario envia su postulación en el sistema.	2022-08-24 11:24:53	10.83.226.20
+4279	13548497-0  	Funcionario descarga su certificado.	2022-08-24 11:24:59	10.83.226.20
+4280	15486141-6  	Ingreso de funcionario al sistema.	2022-08-24 12:36:08	172.16.40.24
+4281	15486141-6  	Funcionario envia su postulación en el sistema.	2022-08-24 12:37:31	172.16.40.24
+4282	18612583-5  	Ingreso de funcionario al sistema.	2022-08-24 12:42:29	172.16.40.24
+4283	18612583-5  	Funcionario envia su postulación en el sistema.	2022-08-24 12:44:53	172.16.40.24
+4284	16372665-3  	Ingreso de funcionario al sistema.	2022-08-24 13:03:32	172.16.40.24
+4285	16372665-3  	Funcionario envia su postulación en el sistema.	2022-08-24 13:03:52	172.16.40.24
+4286	16372665-3  	Funcionario descarga su certificado.	2022-08-24 13:03:55	172.16.40.24
+4287	13483855-8  	Ingreso de funcionario al sistema.	2022-08-24 13:17:27	10.83.226.131
+4288	13483855-8  	Funcionario envia su postulación en el sistema.	2022-08-24 13:20:12	10.83.226.131
+4289	13483855-8  	Funcionario descarga su certificado.	2022-08-24 13:20:17	10.83.226.131
+4290	13028992-4  	Ingreso de funcionario al sistema.	2022-08-24 13:25:56	10.83.232.93
+4291	15700655-K  	Ingreso de funcionario al sistema.	2022-08-24 14:03:47	172.16.20.246
+4292	15700655-K  	Funcionario envia su postulación en el sistema.	2022-08-24 14:04:25	172.16.20.246
+4293	15700655-K  	Funcionario descarga su certificado.	2022-08-24 14:04:29	172.16.20.246
+4294	09381208-5  	Ingreso de funcionario al sistema.	2022-08-24 14:05:53	10.83.234.35
+4295	09381208-5  	Ingreso de funcionario al sistema.	2022-08-24 14:08:07	10.83.234.35
+4296	12755721-7  	Ingreso de funcionario al sistema.	2022-08-24 14:19:10	172.16.40.24
+4297	12755721-7  	Funcionario envia su postulación en el sistema.	2022-08-24 14:24:55	172.16.40.24
+4298	12755721-7  	Funcionario descarga su certificado.	2022-08-24 14:25:10	172.16.40.24
+4299	13525546-7  	Ingreso de funcionario al sistema.	2022-08-24 14:43:39	172.16.40.24
+4300	13940051-8  	Ingreso de funcionario al sistema.	2022-08-24 18:21:36	10.83.220.98
+4301	13940051-8  	Ingreso de funcionario al sistema.	2022-08-24 18:24:03	10.83.220.98
+4302	12472170-9  	Ingreso de funcionario al sistema.	2022-08-24 18:30:48	172.16.40.24
+4303	12542112-1  	Ingreso de funcionario al sistema.	2022-08-24 18:36:02	10.83.220.98
+4304	13285986-8  	Ingreso de funcionario al sistema.	2022-08-25 02:02:08	172.16.40.24
+4305	13285986-8  	Funcionario envia su postulación en el sistema.	2022-08-25 02:05:06	172.16.40.24
+4306	13285986-8  	Funcionario descarga su certificado.	2022-08-25 02:05:20	172.16.40.24
+4307	12472170-9  	Ingreso de funcionario al sistema.	2022-08-25 08:08:43	10.83.221.96
+4308	12542112-1  	Ingreso de funcionario al sistema.	2022-08-25 08:12:11	172.16.40.24
+4309	12542112-1  	Funcionario envia su postulación en el sistema.	2022-08-25 08:13:42	172.16.40.24
+4310	12542112-1  	Funcionario descarga su certificado.	2022-08-25 08:13:55	172.16.40.24
+4311	09381208-5  	Ingreso de funcionario al sistema.	2022-08-25 09:12:18	10.83.234.35
+4312	09381208-5  	Ingreso de funcionario al sistema.	2022-08-25 09:15:00	10.83.234.35
+4313	09381208-5  	Ingreso de funcionario al sistema.	2022-08-25 09:15:49	10.83.234.35
+4314	09381208-5  	Funcionario descarga su certificado.	2022-08-25 09:16:11	10.83.234.35
+4315	09381208-5  	Ingreso de funcionario al sistema.	2022-08-25 09:54:33	10.83.234.35
+4316	12501840-8  	Ingreso de funcionario al sistema.	2022-08-25 12:12:38	172.16.20.102
+4317	12501840-8  	Funcionario envia su postulación en el sistema.	2022-08-25 12:13:32	172.16.20.102
+4318	12507379-4  	Ingreso de funcionario al sistema.	2022-08-25 12:26:17	10.83.221.143
+4319	12507379-4  	Funcionario envia su postulación en el sistema.	2022-08-25 12:27:07	10.83.221.143
+4320	12507379-4  	Funcionario descarga su certificado.	2022-08-25 12:27:15	10.83.221.143
+4321	11636371-2  	Ingreso de funcionario al sistema.	2022-08-25 12:43:21	10.83.221.219
+4322	14461505-0  	Ingreso de funcionario al sistema.	2022-08-25 12:44:46	172.16.40.24
+4323	11636371-2  	Funcionario envia su postulación en el sistema.	2022-08-25 12:45:09	10.83.221.219
+4324	11636371-2  	Funcionario descarga su certificado.	2022-08-25 12:45:23	10.83.221.219
+4325	14461505-0  	Funcionario envia su postulación en el sistema.	2022-08-25 12:46:46	172.16.40.24
+4326	14461505-0  	Funcionario descarga su certificado.	2022-08-25 12:46:51	172.16.40.24
+4327	10772687-K  	Ingreso de funcionario al sistema.	2022-08-25 15:51:39	172.16.40.24
+4328	10772687-K  	Ingreso de funcionario al sistema.	2022-08-25 16:26:51	172.16.40.24
+4329	10772687-K  	Funcionario crea una nueva objeción.	2022-08-25 16:33:59	172.16.40.24
+4330	10772687-K  	Ingreso de funcionario al sistema.	2022-08-25 16:37:07	172.16.40.24
+4331	10772687-K  	Funcionario crea una nueva objeción.	2022-08-25 16:39:52	172.16.40.24
+4332	15605883-1  	Ingreso de funcionario al sistema.	2022-08-25 17:40:56	172.16.40.24
+4333	15605883-1  	Funcionario crea una nueva objeción.	2022-08-25 17:54:11	172.16.40.24
+4334	10392143-0  	Ingreso de funcionario al sistema.	2022-08-26 10:34:38	10.83.234.47
+4335	10392143-0  	Funcionario envia su postulación en el sistema.	2022-08-26 10:38:01	10.83.234.47
+4336	10392143-0  	Funcionario descarga su certificado.	2022-08-26 10:38:13	10.83.234.47
+4337	13525546-7  	Ingreso de funcionario al sistema.	2022-08-26 10:44:01	172.16.40.24
+4338	13525546-7  	Funcionario envia su postulación en el sistema.	2022-08-26 10:46:00	172.16.40.24
+4339	13525546-7  	Funcionario descarga su certificado.	2022-08-26 10:46:05	172.16.40.24
+4340	08232036-9  	Ingreso de funcionario al sistema.	2022-08-26 12:01:59	172.16.40.24
+4341	08232036-9  	Funcionario envia su postulación en el sistema.	2022-08-26 12:10:14	172.16.40.24
+4342	08232036-9  	Funcionario descarga su certificado.	2022-08-26 12:10:18	172.16.40.24
+4343	11475101-4  	Ingreso de funcionario al sistema.	2022-08-26 12:29:46	172.16.40.24
+4344	11475101-4  	Funcionario envia su postulación en el sistema.	2022-08-26 12:34:50	172.16.40.24
+4345	11475101-4  	Funcionario descarga su certificado.	2022-08-26 12:36:19	172.16.40.24
+4346	10744717-2  	Ingreso de funcionario al sistema.	2022-08-26 13:29:22	172.16.40.24
+4347	10744717-2  	Funcionario envia su postulación en el sistema.	2022-08-26 13:35:47	172.16.40.24
+4348	08353258-0  	Ingreso de funcionario al sistema.	2022-08-26 15:25:53	172.16.40.24
+4349	08353258-0  	Ingreso de funcionario al sistema.	2022-08-26 15:31:59	172.16.40.24
+4350	11929195-K  	Ingreso de funcionario al sistema.	2022-08-26 15:37:36	172.16.40.24
+4351	11929195-K  	Ingreso de funcionario al sistema.	2022-08-26 15:38:21	172.16.40.24
+4352	11929195-K  	Ingreso de funcionario al sistema.	2022-08-26 15:39:26	172.16.40.24
+4353	11833202-4  	Ingreso de funcionario al sistema.	2022-08-26 15:41:41	172.16.40.24
+4354	11929195-K  	Ingreso de funcionario al sistema.	2022-08-26 15:41:44	172.16.40.24
+4355	11833202-4  	Funcionario envia su postulación en el sistema.	2022-08-26 15:42:31	172.16.40.24
+4356	15605883-1  	Ingreso de funcionario al sistema.	2022-08-26 17:26:45	172.16.40.24
+4357	10966129-5  	Ingreso de funcionario al sistema.	2022-08-26 17:31:35	172.16.40.24
+4358	10966129-5  	Funcionario envia su postulación en el sistema.	2022-08-26 17:33:11	172.16.40.24
+4359	10966129-5  	Funcionario descarga su certificado.	2022-08-26 17:33:31	172.16.40.24
+4360	13940051-8  	Ingreso de funcionario al sistema.	2022-08-27 14:43:44	172.16.40.24
+4361	11319409-K  	Ingreso de funcionario al sistema.	2022-08-28 20:23:56	172.16.40.24
+4362	08353258-0  	Ingreso de funcionario al sistema.	2022-08-29 09:12:49	172.16.40.24
+4363	08353258-0  	Funcionario envia su postulación en el sistema.	2022-08-29 09:14:29	172.16.40.24
+4364	08353258-0  	Funcionario descarga su certificado.	2022-08-29 09:14:36	172.16.40.24
+4365	15849618-6  	Ingreso de funcionario al sistema.	2022-08-29 09:18:54	172.16.40.24
+4366	12534297-3  	Ingreso de funcionario al sistema.	2022-08-29 09:57:15	172.16.40.24
+4367	10309126-8  	Ingreso de funcionario al sistema.	2022-08-29 10:07:15	172.16.40.24
+4368	07014284-8  	Ingreso de funcionario al sistema.	2022-08-29 10:17:26	172.16.40.24
+4369	07014284-8  	Funcionario envia su postulación en el sistema.	2022-08-29 10:19:49	172.16.40.24
+4370	07014284-8  	Funcionario descarga su certificado.	2022-08-29 10:20:04	172.16.40.24
+4371	10309126-8  	Ingreso de funcionario al sistema.	2022-08-29 10:55:54	172.16.40.24
+4372	10309126-8  	Ingreso de funcionario al sistema.	2022-08-29 11:02:01	172.16.40.24
+4373	10039753-6  	Ingreso de funcionario al sistema.	2022-08-29 11:22:07	172.16.40.24
+4374	10039753-6  	Funcionario envia su postulación en el sistema.	2022-08-29 11:28:10	172.16.40.24
+4375	10039753-6  	Funcionario descarga su certificado.	2022-08-29 11:28:17	172.16.40.24
+4376	10309126-8  	Funcionario crea una nueva objeción.	2022-08-29 11:34:29	172.16.40.24
+4377	10309126-8  	Funcionario crea una nueva objeción.	2022-08-29 11:35:48	172.16.40.24
+4378	11319409-K  	Ingreso de funcionario al sistema.	2022-08-29 11:36:27	172.16.40.24
+4379	11319409-K  	Ingreso de funcionario al sistema.	2022-08-29 11:48:44	172.16.40.24
+4380	11929195-K  	Ingreso de funcionario al sistema.	2022-08-29 12:01:17	172.16.40.24
+4381	17053502-2  	Ingreso de funcionario al sistema.	2022-08-29 12:13:06	172.16.40.24
+4382	17053502-2  	Funcionario envia su postulación en el sistema.	2022-08-29 12:14:31	172.16.40.24
+4383	17053502-2  	Funcionario descarga su certificado.	2022-08-29 12:14:52	172.16.40.24
+4384	09871166-K  	Ingreso de funcionario al sistema.	2022-08-29 12:19:05	172.16.40.24
+4385	11319409-K  	Ingreso de funcionario al sistema.	2022-08-29 12:23:11	172.16.40.24
+4386	11929195-K  	Ingreso de funcionario al sistema.	2022-08-29 12:32:35	172.16.40.24
+4387	11929195-K  	Funcionario envia su postulación en el sistema.	2022-08-29 12:33:21	172.16.40.24
+4388	13476140-7  	Ingreso de funcionario al sistema.	2022-08-29 12:52:30	172.16.40.24
+4389	07986546-K  	Ingreso de funcionario al sistema.	2022-08-29 13:19:31	10.83.221.75
+4390	13905087-8  	Ingreso de funcionario al sistema.	2022-08-29 13:44:23	172.16.20.196
+4391	13905087-8  	Funcionario envia su postulación en el sistema.	2022-08-29 13:47:04	172.16.20.196
+4392	13905087-8  	Funcionario descarga su certificado.	2022-08-29 13:47:10	172.16.20.196
+4393	08707276-2  	Ingreso de funcionario al sistema.	2022-08-29 15:16:10	172.16.40.24
+4394	08707276-2  	Ingreso de funcionario al sistema.	2022-08-29 15:31:50	172.16.40.24
+4395	09585862-7  	Ingreso de funcionario al sistema.	2022-08-29 16:00:48	172.16.40.24
+4396	09585862-7  	Funcionario envia su postulación en el sistema.	2022-08-29 16:02:51	172.16.40.24
+4397	09585862-7  	Funcionario descarga su certificado.	2022-08-29 16:02:58	172.16.40.24
+4398	13911659-3  	Ingreso de funcionario al sistema.	2022-08-29 16:20:30	172.16.40.24
+4399	10851396-9  	Ingreso de funcionario al sistema.	2022-08-29 16:24:32	172.16.40.24
+4400	10851396-9  	Funcionario envia su postulación en el sistema.	2022-08-29 16:28:05	172.16.40.24
+4401	10851396-9  	Funcionario descarga su certificado.	2022-08-29 16:28:19	172.16.40.24
+4402	15605883-1  	Ingreso de funcionario al sistema.	2022-08-29 16:29:56	172.16.40.24
+4403	14590574-5  	Ingreso de funcionario al sistema.	2022-08-29 18:18:01	172.16.40.24
+4404	14590574-5  	Funcionario envia su postulación en el sistema.	2022-08-29 18:19:12	172.16.40.24
+4405	15605883-1  	Ingreso de funcionario al sistema.	2022-08-29 18:28:43	172.16.40.24
+4406	11319409-K  	Ingreso de funcionario al sistema.	2022-08-29 19:16:43	172.16.40.24
+4407	11319409-K  	Funcionario envia su postulación en el sistema.	2022-08-29 19:25:44	172.16.40.24
+4408	11319409-K  	Funcionario descarga su certificado.	2022-08-29 19:25:48	172.16.40.24
+4409	10309126-8  	Ingreso de funcionario al sistema.	2022-08-30 17:55:47	172.16.40.24
+4410	13476140-7  	Ingreso de funcionario al sistema.	2022-08-30 18:28:56	172.16.40.24
+4411	13476140-7  	Funcionario envia su postulación en el sistema.	2022-08-30 18:30:14	172.16.40.24
+4412	13476140-7  	Funcionario descarga su certificado.	2022-08-30 18:30:26	172.16.40.24
+4413	13556975-5  	Ingreso de funcionario al sistema.	2022-08-30 20:35:31	10.83.220.98
+4414	11948332-8  	Ingreso de funcionario al sistema.	2022-08-30 22:02:34	172.16.40.24
+4415	11948332-8  	Funcionario envia su postulación en el sistema.	2022-08-30 22:24:01	172.16.40.24
+4416	11948332-8  	Funcionario descarga su certificado.	2022-08-30 22:24:07	172.16.40.24
+4417	07986546-K  	Ingreso de funcionario al sistema.	2022-08-31 09:44:44	172.16.40.24
+4418	07986546-K  	Funcionario envia su postulación en el sistema.	2022-08-31 09:45:08	172.16.40.24
+4419	07986546-K  	Funcionario descarga su certificado.	2022-08-31 09:45:17	172.16.40.24
+4420	15563376-K  	Ingreso de funcionario al sistema.	2022-08-31 10:33:39	172.16.40.24
+4421	11821282-7  	Ingreso de funcionario al sistema.	2022-08-31 10:34:03	10.83.101.23
+4422	10309126-8  	Ingreso de funcionario al sistema.	2022-08-31 10:35:30	172.16.40.24
+4423	15563376-K  	Funcionario envia su postulación en el sistema.	2022-08-31 10:38:15	172.16.40.24
+4424	15563376-K  	Funcionario descarga su certificado.	2022-08-31 10:38:20	172.16.40.24
+4425	11821282-7  	Funcionario envia su postulación en el sistema.	2022-08-31 10:44:08	10.83.101.23
+4426	11821282-7  	Funcionario descarga su certificado.	2022-08-31 10:44:13	10.83.101.23
+4427	14021677-1  	Ingreso de funcionario al sistema.	2022-08-31 11:34:12	172.16.40.24
+4428	14021677-1  	Funcionario crea una nueva objeción.	2022-08-31 11:45:41	172.16.40.24
+4429	14021677-1  	Funcionario envia su postulación en el sistema.	2022-08-31 11:46:37	172.16.40.24
+4430	14021677-1  	Funcionario descarga su certificado.	2022-08-31 11:46:40	172.16.40.24
+4431	10887103-2  	Ingreso de funcionario al sistema.	2022-08-31 12:42:09	172.16.40.24
+4432	13432124-5  	Ingreso de funcionario al sistema.	2022-08-31 12:44:59	172.16.40.24
+4433	10887103-2  	Funcionario envia su postulación en el sistema.	2022-08-31 12:46:48	172.16.40.24
+4434	10887103-2  	Funcionario descarga su certificado.	2022-08-31 12:46:57	172.16.40.24
+4435	10887103-2  	Funcionario descarga su certificado.	2022-08-31 12:48:28	172.16.40.24
+4436	09838675-0  	Ingreso de funcionario al sistema.	2022-08-31 13:00:11	172.16.40.24
+4437	13839875-7  	Ingreso de funcionario al sistema.	2022-08-31 13:09:09	172.16.40.24
+4438	13839875-7  	Funcionario envia su postulación en el sistema.	2022-08-31 13:10:55	172.16.40.24
+4439	13839875-7  	Funcionario descarga su certificado.	2022-08-31 13:11:06	172.16.40.24
+4440	17587968-4  	Ingreso de funcionario al sistema.	2022-08-31 13:13:43	172.16.40.24
+4441	12005226-8  	Ingreso de funcionario al sistema.	2022-08-31 13:14:07	172.16.40.24
+4442	09381208-5  	Ingreso de funcionario al sistema.	2022-08-31 13:23:18	172.16.40.24
+4443	09381208-5  	Funcionario descarga su certificado.	2022-08-31 13:25:51	172.16.40.24
+4444	13947838-K  	Ingreso de funcionario al sistema.	2022-08-31 13:28:27	172.16.40.24
+4445	10091141-8  	Ingreso de funcionario al sistema.	2022-08-31 13:28:34	172.16.40.24
+4446	10091141-8  	Funcionario envia su postulación en el sistema.	2022-08-31 13:29:13	172.16.40.24
+4447	10091141-8  	Funcionario descarga su certificado.	2022-08-31 13:29:19	172.16.40.24
+4448	13947838-K  	Funcionario envia su postulación en el sistema.	2022-08-31 13:32:55	172.16.40.24
+4449	13947838-K  	Funcionario descarga su certificado.	2022-08-31 13:33:00	172.16.40.24
+4450	14371007-6  	Ingreso de funcionario al sistema.	2022-08-31 13:56:14	172.16.40.24
+4451	14371007-6  	Funcionario crea una nueva objeción.	2022-08-31 14:01:41	172.16.40.24
+4452	16520573-1  	Ingreso de funcionario al sistema.	2022-08-31 14:21:51	172.16.40.24
+4453	16520573-1  	Funcionario envia su postulación en el sistema.	2022-08-31 14:22:37	172.16.40.24
+4454	16520573-1  	Funcionario descarga su certificado.	2022-08-31 14:22:42	172.16.40.24
+4455	08942527-1  	Ingreso de funcionario al sistema.	2022-08-31 14:23:14	172.16.40.24
+4456	10738308-5  	Ingreso de funcionario al sistema.	2022-08-31 14:51:49	172.16.40.24
+4457	08942527-1  	Funcionario crea una nueva objeción.	2022-08-31 14:56:57	172.16.40.24
+4458	08942527-1  	Funcionario crea una nueva objeción.	2022-08-31 14:59:21	172.16.40.24
+4459	09826631-3  	Ingreso de funcionario al sistema.	2022-08-31 15:00:02	172.16.40.24
+4460	08942527-1  	Funcionario envia su postulación en el sistema.	2022-08-31 15:00:07	172.16.40.24
+4461	08942527-1  	Funcionario descarga su certificado.	2022-08-31 15:00:47	172.16.40.24
+4462	09826631-3  	Funcionario envia su postulación en el sistema.	2022-08-31 15:01:27	172.16.40.24
+4463	09826631-3  	Funcionario descarga su certificado.	2022-08-31 15:01:40	172.16.40.24
+4464	07057062-9  	Ingreso de funcionario al sistema.	2022-08-31 15:02:55	10.83.220.93
+4465	10738308-5  	Ingreso de funcionario al sistema.	2022-08-31 15:07:02	172.16.40.24
+4466	10738308-5  	Funcionario envia su postulación en el sistema.	2022-08-31 15:07:13	172.16.40.24
+4467	10738308-5  	Funcionario descarga su certificado.	2022-08-31 15:07:15	172.16.40.24
+4468	10309126-8  	Ingreso de funcionario al sistema.	2022-08-31 15:14:38	172.16.40.24
+4469	10772687-K  	Ingreso de funcionario al sistema.	2022-08-31 15:18:55	172.16.40.24
+4470	10772687-K  	Funcionario envia su postulación en el sistema.	2022-08-31 15:19:51	172.16.40.24
+4471	10772687-K  	Funcionario descarga su certificado.	2022-08-31 15:20:02	172.16.40.24
+4472	08654761-9  	Ingreso de funcionario al sistema.	2022-08-31 15:28:08	172.16.40.24
+4473	08654761-9  	Funcionario envia su postulación en el sistema.	2022-08-31 15:32:14	172.16.40.24
+4474	08654761-9  	Funcionario descarga su certificado.	2022-08-31 15:32:20	172.16.40.24
+4475	07057062-9  	Funcionario envia su postulación en el sistema.	2022-08-31 15:35:37	10.83.220.93
+4476	07057062-9  	Funcionario descarga su certificado.	2022-08-31 15:35:45	10.83.220.93
+4477	07057062-9  	Funcionario descarga su certificado.	2022-08-31 15:35:52	10.83.220.93
+4478	07057062-9  	Funcionario descarga su certificado.	2022-08-31 15:40:15	10.83.220.93
+4479	15849618-6  	Ingreso de funcionario al sistema.	2022-08-31 16:01:16	172.16.40.24
+4480	15849618-6  	Funcionario envia su postulación en el sistema.	2022-08-31 16:02:27	172.16.40.24
+4481	15849618-6  	Funcionario descarga su certificado.	2022-08-31 16:02:35	172.16.40.24
+4482	08707276-2  	Ingreso de funcionario al sistema.	2022-08-31 16:04:43	172.16.40.24
+4483	12311014-5  	Ingreso de funcionario al sistema.	2022-08-31 16:12:58	172.16.40.24
+4484	12311014-5  	Funcionario envia su postulación en el sistema.	2022-08-31 16:13:43	172.16.40.24
+4485	12311014-5  	Funcionario descarga su certificado.	2022-08-31 16:13:52	172.16.40.24
+4486	12256787-7  	Ingreso de funcionario al sistema.	2022-08-31 18:29:15	172.16.40.24
+4487	12256787-7  	Funcionario envia su postulación en el sistema.	2022-08-31 18:33:12	172.16.40.24
+4488	12256787-7  	Funcionario descarga su certificado.	2022-08-31 18:33:23	172.16.40.24
+4489	12256787-7  	Ingreso de funcionario al sistema.	2022-08-31 18:46:53	172.16.40.24
+4490	13911659-3  	Ingreso de funcionario al sistema.	2022-08-31 22:19:46	172.16.40.24
+4491	13911659-3  	Funcionario envia su postulación en el sistema.	2022-08-31 22:20:39	172.16.40.24
+4492	13911659-3  	Funcionario descarga su certificado.	2022-08-31 22:20:47	172.16.40.24
+4493	11688072-5  	Ingreso de funcionario al sistema.	2022-09-01 09:04:14	172.16.40.24
+4494	11688072-5  	Funcionario envia su postulación en el sistema.	2022-09-01 09:09:53	172.16.40.24
+4495	11688072-5  	Funcionario descarga su certificado.	2022-09-01 09:10:02	172.16.40.24
+4496	14371007-6  	Ingreso de funcionario al sistema.	2022-09-01 09:53:31	172.16.40.24
+4497	14371007-6  	Ingreso de funcionario al sistema.	2022-09-01 09:54:17	172.16.40.24
+4498	08707276-2  	Ingreso de funcionario al sistema.	2022-09-01 10:28:46	172.16.40.24
+4499	08707276-2  	Ingreso de funcionario al sistema.	2022-09-01 10:38:55	172.16.40.24
+4500	08707276-2  	Funcionario envia su postulación en el sistema.	2022-09-01 10:39:07	172.16.40.24
+4501	08707276-2  	Funcionario descarga su certificado.	2022-09-01 10:39:15	172.16.40.24
+4502	15406339-0  	Ingreso de funcionario al sistema.	2022-09-01 11:28:02	172.16.40.24
+4503	15406339-0  	Funcionario envia su postulación en el sistema.	2022-09-01 11:30:16	172.16.40.24
+4504	15406339-0  	Funcionario descarga su certificado.	2022-09-01 11:30:28	172.16.40.24
+4505	14384588-5  	Ingreso de funcionario al sistema.	2022-09-01 11:45:30	172.16.40.24
+4506	14384588-5  	Funcionario envia su postulación en el sistema.	2022-09-01 11:47:09	172.16.40.24
+4507	14384588-5  	Funcionario descarga su certificado.	2022-09-01 11:47:14	172.16.40.24
+4508	16048453-5  	Ingreso de funcionario al sistema.	2022-09-01 12:26:34	172.16.40.24
+4509	09490284-3  	Ingreso de funcionario al sistema.	2022-09-01 13:24:34	172.16.40.24
+4510	09490284-3  	Ingreso de funcionario al sistema.	2022-09-01 13:58:55	172.16.40.24
+4511	09490284-3  	Funcionario crea una nueva objeción.	2022-09-01 14:21:04	172.16.40.24
+4512	09490284-3  	Funcionario envia su postulación en el sistema.	2022-09-01 14:23:33	172.16.40.24
+4513	09490284-3  	Funcionario descarga su certificado.	2022-09-01 14:23:43	172.16.40.24
+4514	14371007-6  	Ingreso de funcionario al sistema.	2022-09-01 16:27:39	172.16.40.24
+4515	14371007-6  	Funcionario envia su postulación en el sistema.	2022-09-01 16:29:22	172.16.40.24
+4516	14371007-6  	Funcionario descarga su certificado.	2022-09-01 16:29:30	172.16.40.24
+4517	09126680-6  	Ingreso de funcionario al sistema.	2022-09-01 22:00:28	172.16.40.24
+4518	09126680-6  	Funcionario envia su postulación en el sistema.	2022-09-01 22:02:32	172.16.40.24
+4519	09126680-6  	Funcionario descarga su certificado.	2022-09-01 22:02:38	172.16.40.24
+4520	19002158-0  	Ingreso de funcionario al sistema.	2022-09-02 11:32:55	172.16.40.24
+4521	16048453-5  	Ingreso de funcionario al sistema.	2022-09-02 13:11:42	172.16.40.24
+4522	16048453-5  	Funcionario crea una nueva objeción.	2022-09-02 13:36:11	172.16.40.24
+4523	16048453-5  	Funcionario crea una nueva objeción.	2022-09-02 13:43:01	172.16.40.24
+4524	16048453-5  	Ingreso de funcionario al sistema.	2022-09-02 13:45:16	172.16.40.24
+4525	09117122-8  	Ingreso de funcionario al sistema.	2022-09-02 15:04:00	172.16.40.24
+4526	09117122-8  	Funcionario envia su postulación en el sistema.	2022-09-02 15:04:50	172.16.40.24
+4527	09117122-8  	Funcionario descarga su certificado.	2022-09-02 15:04:55	172.16.40.24
+4528	09692366-K  	Ingreso de funcionario al sistema.	2022-09-02 15:08:05	172.16.40.24
+4529	09692366-K  	Funcionario envia su postulación en el sistema.	2022-09-02 15:08:30	172.16.40.24
+4530	09692366-K  	Funcionario descarga su certificado.	2022-09-02 15:08:35	172.16.40.24
+4531	10309126-8  	Ingreso de funcionario al sistema.	2022-09-02 15:12:27	172.16.40.24
+4532	10309126-8  	Funcionario envia su postulación en el sistema.	2022-09-02 15:16:01	172.16.40.24
+4533	10309126-8  	Funcionario descarga su certificado.	2022-09-02 15:16:04	172.16.40.24
+4534	09490284-3  	Ingreso de funcionario al sistema.	2022-09-02 20:04:13	172.16.40.24
+4535	10849095-0  	Ingreso de funcionario al sistema.	2022-09-03 11:38:35	172.16.40.24
+4536	10849095-0  	Funcionario envia su postulación en el sistema.	2022-09-03 12:12:11	172.16.40.24
+4537	10849095-0  	Funcionario descarga su certificado.	2022-09-03 12:12:20	172.16.40.24
+4538	17194066-4  	Ingreso de funcionario al sistema.	2022-09-05 11:53:07	172.16.40.24
+4539	17194066-4  	Funcionario envia su postulación en el sistema.	2022-09-05 11:53:47	172.16.40.24
+4540	17194066-4  	Funcionario descarga su certificado.	2022-09-05 12:04:45	172.16.40.24
+4541	11929195-K  	Ingreso de funcionario al sistema.	2022-09-05 14:27:55	172.16.40.24
+4542	11929195-K  	Funcionario descarga su certificado.	2022-09-05 14:28:24	172.16.40.24
+4543	10509792-1  	Ingreso de funcionario al sistema.	2022-09-05 14:52:55	172.16.40.24
+4544	10509792-1  	Funcionario envia su postulación en el sistema.	2022-09-05 14:55:09	172.16.40.24
+4545	10509792-1  	Funcionario descarga su certificado.	2022-09-05 14:55:21	172.16.40.24
+4546	12786065-3  	Ingreso de funcionario al sistema.	2022-09-05 15:37:32	10.83.234.61
+4547	12786065-3  	Funcionario envia su postulación en el sistema.	2022-09-05 15:38:09	10.83.234.61
+4548	12786065-3  	Funcionario descarga su certificado.	2022-09-05 15:38:13	10.83.234.61
+4549	09842212-9  	Ingreso de funcionario al sistema.	2022-09-05 16:34:49	172.16.40.24
+4550	09842212-9  	Funcionario envia su postulación en el sistema.	2022-09-05 16:38:18	172.16.40.24
+4551	10772687-K  	Ingreso de funcionario al sistema.	2022-09-05 20:51:19	172.16.40.24
+4552	17411401-3  	Ingreso de funcionario al sistema.	2022-09-06 10:24:15	10.83.220.103
+4553	10951118-8  	Ingreso de funcionario al sistema.	2022-09-06 10:55:39	172.16.40.24
+4554	10951118-8  	Funcionario envia su postulación en el sistema.	2022-09-06 10:59:12	172.16.40.24
+4555	10951118-8  	Funcionario descarga su certificado.	2022-09-06 10:59:22	172.16.40.24
+4556	10951118-8  	Funcionario descarga su certificado.	2022-09-06 11:01:25	172.16.40.24
+4557	10966608-4  	Ingreso de funcionario al sistema.	2022-09-06 11:27:56	172.16.40.24
+4558	10966608-4  	Funcionario envia su postulación en el sistema.	2022-09-06 11:58:20	172.16.40.24
+4559	10966608-4  	Funcionario descarga su certificado.	2022-09-06 11:58:30	172.16.40.24
+4560	10722577-3  	Ingreso de funcionario al sistema.	2022-09-06 13:18:12	172.16.20.88
+4561	11402664-6  	Ingreso de funcionario al sistema.	2022-09-06 13:18:20	192.168.110.2
+4562	15605883-1  	Ingreso de funcionario al sistema.	2022-09-06 13:19:46	172.16.40.24
+4563	10722577-3  	Funcionario envia su postulación en el sistema.	2022-09-06 13:20:41	172.16.20.88
+4564	11402664-6  	Funcionario envia su postulación en el sistema.	2022-09-06 13:20:47	192.168.110.2
+4565	10722577-3  	Funcionario descarga su certificado.	2022-09-06 13:21:04	172.16.20.88
+4566	11402664-6  	Funcionario descarga su certificado.	2022-09-06 13:21:11	192.168.110.2
+4567	15605883-1  	Funcionario crea una nueva objeción.	2022-09-06 13:21:24	172.16.40.24
+4568	15605883-1  	Funcionario crea una nueva objeción.	2022-09-06 13:25:56	172.16.40.24
+4569	15605883-1  	Funcionario crea una nueva objeción.	2022-09-06 13:26:15	172.16.40.24
+4570	13678528-1  	Ingreso de funcionario al sistema.	2022-09-06 13:44:47	172.16.40.24
+4571	16048453-5  	Ingreso de funcionario al sistema.	2022-09-06 13:46:54	172.16.40.24
+4572	13678528-1  	Funcionario crea una nueva objeción.	2022-09-06 13:47:20	172.16.40.24
+4573	13678528-1  	Funcionario envia su postulación en el sistema.	2022-09-06 13:47:37	172.16.40.24
+4574	16048453-5  	Funcionario envia su postulación en el sistema.	2022-09-06 13:49:08	172.16.40.24
+4575	16048453-5  	Funcionario descarga su certificado.	2022-09-06 13:49:12	172.16.40.24
+4576	16048453-5  	Ingreso de funcionario al sistema.	2022-09-06 13:49:39	172.16.40.24
+4577	14384588-5  	Ingreso de funcionario al sistema.	2022-09-06 13:59:36	172.16.40.24
+4578	14384588-5  	Funcionario descarga su certificado.	2022-09-06 13:59:43	172.16.40.24
+4579	15605883-1  	Ingreso de funcionario al sistema.	2022-09-06 14:26:35	172.16.40.24
+4580	15605883-1  	Funcionario envia su postulación en el sistema.	2022-09-06 14:28:33	172.16.40.24
+4581	15605883-1  	Funcionario descarga su certificado.	2022-09-06 14:28:39	172.16.40.24
+4582	13252127-1  	Ingreso de funcionario al sistema.	2022-09-06 16:19:28	172.16.40.24
+4583	10284968-K  	Ingreso de funcionario al sistema.	2022-09-06 16:21:56	172.16.40.24
+4584	13252127-1  	Funcionario crea una nueva objeción.	2022-09-06 16:41:26	172.16.40.24
+4585	13252127-1  	Funcionario envia su postulación en el sistema.	2022-09-06 16:44:10	172.16.40.24
+4586	13252127-1  	Funcionario descarga su certificado.	2022-09-06 16:44:15	172.16.40.24
+4587	10284968-K  	Ingreso de funcionario al sistema.	2022-09-06 16:45:59	172.16.40.24
+4588	10284968-K  	Funcionario envia su postulación en el sistema.	2022-09-06 16:47:57	172.16.40.24
+4589	15850985-7  	Ingreso de funcionario al sistema.	2022-09-06 17:49:11	172.16.40.24
+4590	15850985-7  	Funcionario envia su postulación en el sistema.	2022-09-06 17:50:46	172.16.40.24
+4591	15850985-7  	Funcionario descarga su certificado.	2022-09-06 17:52:34	172.16.40.24
+4592	09826631-3  	Ingreso de funcionario al sistema.	2022-09-07 10:28:52	10.83.237.90
+4593	11840634-6  	Ingreso de funcionario al sistema.	2022-09-07 10:29:52	10.83.237.71
+4594	08575565-K  	Ingreso de funcionario al sistema.	2022-09-07 10:30:04	172.16.40.24
+4595	13211265-7  	Ingreso de funcionario al sistema.	2022-09-07 15:43:49	172.16.40.24
+4596	13211265-7  	Funcionario envia su postulación en el sistema.	2022-09-07 15:45:39	172.16.40.24
+4597	13211265-7  	Funcionario descarga su certificado.	2022-09-07 15:45:57	172.16.40.24
+4598	07367760-2  	Ingreso de funcionario al sistema.	2022-09-07 15:55:41	10.83.102.41
+4599	07367760-2  	Ingreso de funcionario al sistema.	2022-09-07 15:59:38	172.16.40.24
+4600	07367760-2  	Funcionario envia su postulación en el sistema.	2022-09-07 16:00:46	172.16.40.24
+4601	14021677-1  	Ingreso de funcionario al sistema.	2022-09-07 20:23:48	172.16.40.24
+4602	12472170-9  	Ingreso de funcionario al sistema.	2022-09-08 10:13:46	10.83.220.98
+4603	13432124-5  	Ingreso de funcionario al sistema.	2022-09-08 10:13:55	172.16.40.24
+4604	11948332-8  	Ingreso de funcionario al sistema.	2022-09-08 17:05:54	172.16.40.24
+4605	11948332-8  	Funcionario descarga su certificado.	2022-09-08 17:06:10	172.16.40.24
+4606	15605883-1  	Ingreso de funcionario al sistema.	2022-09-09 12:07:39	172.16.40.24
+4607	13678528-1  	Ingreso de funcionario al sistema.	2022-09-09 13:59:17	172.16.40.24
+4608	13252127-1  	Ingreso de funcionario al sistema.	2022-09-09 19:26:34	172.16.40.24
+4609	13252127-1  	Ingreso de funcionario al sistema.	2022-09-09 19:27:16	172.16.40.24
+4610	14371007-6  	Ingreso de funcionario al sistema.	2022-09-13 13:35:06	172.16.40.24
+4611	14371007-6  	Funcionario descarga su certificado.	2022-09-13 13:35:54	172.16.40.24
+4612	13940051-8  	Ingreso de funcionario al sistema.	2022-09-13 14:17:58	172.16.40.24
+4613	14371007-6  	Ingreso de funcionario al sistema.	2022-09-13 19:52:44	172.16.40.24
+4614	14371007-6  	Funcionario descarga su certificado.	2022-09-13 19:53:02	172.16.40.24
+4615	14021677-1  	Ingreso de funcionario al sistema.	2022-09-13 21:17:48	172.16.40.24
+4616	10802034-2  	Ingreso de funcionario al sistema.	2022-09-14 01:51:45	172.16.40.24
+4617	12542112-1  	Ingreso de funcionario al sistema.	2022-09-14 09:19:24	172.16.40.24
+4618	17587968-4  	Ingreso de funcionario al sistema.	2022-09-14 09:33:23	172.16.40.24
+4619	17151778-8  	Ingreso de funcionario al sistema.	2022-09-14 10:53:58	172.16.40.24
+4620	17151778-8  	Funcionario descarga su certificado.	2022-09-14 10:54:57	172.16.40.24
+4621	15605883-1  	Ingreso de funcionario al sistema.	2022-09-14 12:12:31	172.16.40.24
+4622	08353258-0  	Ingreso de funcionario al sistema.	2022-09-14 18:13:44	172.16.40.24
+4623	11929195-K  	Ingreso de funcionario al sistema.	2022-09-15 11:12:06	172.16.40.24
+4624	13252127-1  	Ingreso de funcionario al sistema.	2022-09-20 10:43:04	172.16.40.24
+4625	15605883-1  	Ingreso de funcionario al sistema.	2022-09-21 12:24:54	172.16.40.24
+4626	12576995-0  	Ingreso de funcionario al sistema.	2022-09-24 23:16:37	172.16.40.24
+4627	16372665-3  	Ingreso de funcionario al sistema.	2022-10-04 17:18:11	172.16.20.194
+4628	14021677-1  	Ingreso de funcionario al sistema.	2022-10-06 18:43:42	172.16.40.24
+4629	17587968-4  	Ingreso de funcionario al sistema.	2022-10-06 20:47:13	172.16.40.24
+4630	17587968-4  	Ingreso de funcionario al sistema.	2022-10-06 21:09:16	172.16.40.24
+4631	10802034-2  	Ingreso de funcionario al sistema.	2022-10-06 23:26:29	172.16.40.24
+4632	10047346-1  	Ingreso de funcionario al sistema.	2022-10-07 09:32:39	172.16.20.100
+4633	12786065-3  	Ingreso de funcionario al sistema.	2022-10-14 15:36:13	10.83.234.61
+4634	16048453-5  	Ingreso de funcionario al sistema.	2022-10-20 11:43:18	172.16.40.24
+4635	12542112-1  	Ingreso de funcionario al sistema.	2022-10-22 17:35:27	10.83.220.98
+4636	13252127-1  	Ingreso de funcionario al sistema.	2022-10-26 19:28:16	172.16.40.24
+4637	14547416-7  	Ingreso de funcionario al sistema.	2022-11-03 13:44:53	10.83.224.104
+4638	16520573-1  	Ingreso de funcionario al sistema.	2022-11-03 14:02:07	10.83.240.94
+4639	15596509-6  	Ingreso de funcionario al sistema.	2022-11-03 14:23:08	172.16.40.24
+4640	12542112-1  	Ingreso de funcionario al sistema.	2022-11-03 14:35:56	172.16.40.24
+4641	08353258-0  	Ingreso de funcionario al sistema.	2022-11-03 14:40:19	172.16.40.24
+4642	14384588-5  	Ingreso de funcionario al sistema.	2022-11-03 14:49:30	172.16.40.24
+4643	14384588-5  	Funcionario descarga su certificado.	2022-11-03 14:49:54	172.16.40.24
+4644	16048453-5  	Ingreso de funcionario al sistema.	2022-11-03 14:50:54	172.16.40.24
+4645	17587968-4  	Ingreso de funcionario al sistema.	2022-11-03 15:04:27	172.16.40.24
+4646	10887103-2  	Ingreso de funcionario al sistema.	2022-11-03 16:27:24	172.16.40.24
+4647	11929195-K  	Ingreso de funcionario al sistema.	2022-11-03 16:58:09	172.16.40.24
+4648	10772687-K  	Ingreso de funcionario al sistema.	2022-11-07 11:13:42	172.16.40.24
+4649	10772687-K  	Funcionario descarga su certificado.	2022-11-07 11:15:15	172.16.40.24
+4650	13911659-3  	Ingreso de funcionario al sistema.	2022-11-08 19:08:58	172.16.40.24
+4651	13911659-3  	Funcionario descarga su certificado.	2022-11-08 19:09:41	172.16.40.24
+4652	12976650-6  	Ingreso de funcionario al sistema.	2022-12-17 10:56:12	10.83.236.95
+4653	12976650-6  	Funcionario descarga su certificado.	2022-12-17 10:58:25	10.83.236.95
